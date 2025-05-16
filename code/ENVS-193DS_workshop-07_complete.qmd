@@ -1,7 +1,7 @@
 ---
 title: "Linear regression"
-author: "your name here"
-date: "insert date here"
+author: "Sam Woods"
+date: "2025-05-16"
 format:
   html:
     toc: true # use this to display a table of contents
@@ -9,7 +9,7 @@ execute:
   message: false # use this to make sure messages don't show up
   warning: false # use this to make sure warnings don't show up
 ---
-
+ ** NOTE!!! this is a reference for linear regression whever I need it.**
 # 1. Set up
 
 ```{r libraries-and-data}
