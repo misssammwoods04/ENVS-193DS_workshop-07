@@ -1,7 +1,7 @@
 ---
 title: "Untitled"
-author: "your name here"
-date: "`r Sys.Date()`"
+author: "Sam Woods"
+date: "2025-05-16"
 output:
   html_document:
     toc: true
